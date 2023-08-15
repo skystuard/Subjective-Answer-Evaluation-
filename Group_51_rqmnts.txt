@@ -1,0 +1,9 @@
+pandas, numpy,scikit,nltk,joblib - latest versions
+
+sentence-transformers and gensim
+
+pip install -U sentence-transformers
+pip install --upgrade gensim
+
+pymed - latest version
+pip install pyemd
